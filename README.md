@@ -11,8 +11,6 @@
 
 ## Alur Eksekusi Kode
 
-Berikut adalah penjelasan alur langkah demi langkah dari eksekusi kode Dart yang disediakan:
-
 1.  **Impor Pustaka**
     * Program dimulai dengan mengimpor pustaka `dart:math`.
     * Tujuan: Untuk mendapatkan akses ke konstanta matematika seperti `pi` (untuk perhitungan lingkaran) dan fungsi `pow()` (untuk pangkat).
